@@ -1,0 +1,4 @@
+project: pprof
+target: fuzz
+cmds:
+- cmd: /out/fuzz
