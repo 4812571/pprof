@@ -1,4 +1,6 @@
 project: pprof
 target: fuzz
+testsuite:
+- file://fuzz/corpus
 cmds:
 - cmd: /out/fuzz
